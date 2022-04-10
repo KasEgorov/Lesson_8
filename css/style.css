@@ -1,0 +1,246 @@
+/* &display=swap */
+@import "null.css";
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Taviraj&display=swap');
+/* ================================================================ */
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+	
+}
+
+
+/* ================================================================ */
+
+
+
+body{
+font-family: "Lato", sans-serif;
+font-weight: 400;
+margin-left: 345px;
+color: #424551;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 160%;
+
+	
+}
+
+.line{
+	margin-top: 100px;
+}
+
+.header_3{
+	color: #1E212C;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 150%;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	margin-bottom: 8px;
+}
+
+.header_2{
+	color: #1E212C;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	margin-bottom: 40px;
+}
+
+
+
+
+.list_2{
+	padding: 0px 0px 0px 30px;
+	
+
+}
+
+ .lists::before {
+	content: '';
+	width: 16px;
+	height: 22px;
+	display: inline-block;
+	background: url(../img/Vector.png) 0px 10px/ 16px no-repeat;
+	margin: 0px 16px 0px -30px;
+
+	
+}
+
+.button{
+	margin-top: 48px;
+	background: linear-gradient(55.95deg, #FF3F3A 0%, #F75E05 100%);
+	border-radius: 4px;
+	width: 161px;
+	height: 44px;
+	color: #FFFFFF;
+	text-align: center;
+	letter-spacing: 0.5px;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 44px;
+	margin-bottom: 50px;
+	
+}
+
+
+.title{
+	font-family: 'Taviraj', sans-serif;
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 40px;
+	color: #333333;
+	margin: 0 0 50px 0;
+}
+
+.title::after {
+	content: "";
+	display: block;
+	height: 1px;
+	width: 65px;
+	margin: 8px 0px 0px 0px;
+	background-color: #333333;
+
+}
+
+/* smartfon -------------------------------------------------------------------------------------------------------*/
+.intro {
+	width: 322px;
+	height: 600px;
+	border: 1px solid black;
+	border-radius: 35px;
+	background-color: rgb(17, 16, 16);
+}
+.ecr {
+	border-radius: 20px;
+	
+	border: 1px solid black;
+	width: 300px;
+	height: 570px;
+	margin-left: 10px;
+	margin-top: 10px;
+	
+	
+	background: url('../img/post_0431_0_opportunity.jpg') -130px 0/cover no-repeat;
+
+	
+}
+
+.circle{
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	background-color: rgb(17, 16, 16);
+	margin: 0 auto;
+	margin-top: -20px; 
+	 margin-left: 125px;
+	display: inline-block;
+	max-width: 35px;
+
+ } 
+
+.mega{
+	color: white;
+	padding: 3px;
+	padding-left: 6px;
+	font-size: 14px;
+	font-weight: 600;
+	display: inline-block;
+	max-width: 10px;
+	max-height: 20px;
+	padding-bottom: 10px;
+}
+
+
+
+.img_inst{
+	padding: 20px 6px 0 9px;
+	display: inline-block;
+	width: 80px;
+	padding-top: 20px;
+
+
+}
+
+
+.icons{
+	cursor: pointer;
+	padding-left: 10px;
+}
+.inst{
+	display: inline-block;
+	padding-left: 15px;
+	
+	max-width: 80px;
+}
+
+.yotube{
+display: inline-block;
+padding-left: 15px;
+}
+
+.google{
+display: inline-block;
+}
+
+.tetris{
+	display: inline-block;
+	padding-left: 15px;
+}
+
+.calc{
+	display: inline-block;
+}
+
+.telegram{
+	display: inline-block;
+}
+
+.logo_css{
+	display: inline-block;
+	padding-left: 15px;
+}
+
+.logo_js{
+	display: inline-block;
+	
+}
+
+.logo_vk{
+	display: inline-block;
+}
+
+.logo_fig{
+	display: inline-block;
+}
+
+.img_inst:hover{
+width: 90px;
+}
+
+.img_inst:active{
+background-color: rgba(29, 28, 28, 0.384);
+
+border-radius: 10px;
+}
+
+.img_inst:visited{
+	background-color: #77608d;
+	border-radius: 10px;
+}
+
+p{
+	line-height: 1.1;
+}
+
+
+
+
+
+
+	
